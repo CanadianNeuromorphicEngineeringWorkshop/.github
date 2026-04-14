@@ -92,6 +92,7 @@ We have reserved on-campus housing at the University of Waterloo. Two options ar
 - ~$152/night + 13% HST · ~$2,404.64 CAD per flat for 14 nights (~$601 per person in a group of 4)
 - ⚠️ **MKV requires booking an entire flat — you must form a group of 4.**
 - To join or form a group, add your details to the [**🏠 Accommodation Sharing Sheet**](https://docs.google.com/spreadsheets/d/1Wt_thSzJrFgi4MVV9dijehi4-sf_-YlreUk-m_xEKow/edit?usp=sharing) or email us at [canadian.ne.workshop@gmail.com](mailto:canadian.ne.workshop@gmail.com) — we will help coordinate groups.
+- **Note on booking:** It is possible to book MKV through the conference reservations page with individual payments, but this incurs a 5% service fee and requires that the total number of MKV bookings is divisible by four. We therefore strongly recommend self-organising into groups of 4 via the sheet above before booking.
 - [More info about MKV](https://uwaterloo.ca/campus-housing/residences/mkv)
 
 > All utilities and internet included. Accommodation is **not** included in the registration fee.
