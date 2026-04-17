@@ -84,8 +84,7 @@ We have reserved on-campus housing at the University of Waterloo. Two options ar
 ### Ron Eydt Village (REV) — easiest option
 - Shared double room · ~$62/night + 13% HST
 - ~$980.84 CAD per room for 14 nights (~$490 per person if sharing)
-- **Book individually** via the [accommodation registration link](https://eventworx.uwaterloo.ca/onlinereg/Register/default.aspx?code=C001256)
-- [More info about REV](https://uwaterloo.ca/campus-housing/residences/rev)
+- **Book individually** email us at [canadian.ne.workshop@gmail.com](mailto:canadian.ne.workshop@gmail.com)
 
 ### Mackenzie King Village (MKV) — private room + kitchen + A/C
 - Private room in a 4-bedroom suite with shared kitchen and living area
