@@ -1,4 +1,4 @@
-# 🧠 Canadian Neuromorphic Engineering Workshop (CNEW 2026)
+# Canadian Neuromorphic Engineering Workshop (CNEW 2026)
 
 **June 15–26, 2026 · University of Waterloo, Ontario, Canada**
 
@@ -42,27 +42,22 @@ CNEW 2026 brings together researchers, engineers, neuroscientists, and enthusias
 | 19:00 – 20:30 | Dinner |
 | 20:30+ | Social events, board games, networking |
 
----
+## 🌐 Website
 
-## 🎓 Discussion Leaders & Topics
+**[canadianneuromorphicengineeringworkshop.github.io](https://canadianneuromorphicengineeringworkshop.github.io)**
 
-| Leader | Institution | Topics |
-|---|---|---|
-| **Giulia D'Angelo** | CTU Prague | Event-based vision, DVS cameras, SpiNNaker, microsaccadic attention |
-| **Jamie Knight** | University of Sussex | Insect navigation, neuromorphic overview, GeNN/mlGeNN tutorial |
-| **Michael Furlong** | NRC / UWaterloo | Probabilistic neuromorphic programming, VSAs, autonomous exploration |
-| **Terry Stewart** | NRC / UWaterloo | Brain-inspired computing, Nengo tutorial, efficient temporal representations |
-| **Luca Peres** | University of Manchester | Large-scale SNNs on hardware, event-driven edge vision |
-| **Ján Antolík** | Charles University Prague | Visual processing, neuroprosthetic vision, sensory coding |
-| **Elena Petri** | Eindhoven University of Technology | Neuromorphic control, hybrid dynamical systems, spiking controllers |
-| **Nolan Shaw** | Mount Royal University | Applied category theory, VSAs, functional programming |
-| **Brad Aimone** | Sandia National Laboratories | Neuromorphic scientific computing, NeuroFEM tutorial |
 
-*More discussion leaders to be announced.*
+## 🗣️ Frist day Intro Presentations
 
----
 
-## 💰 Registration Fees (incl. HST)
+**[DISCUSSION LEADERS INTRO PRESENTATION](https://docs.google.com/presentation/d/1jyJD7leMjf-T2kAr6BgntpnmcKL-UGokD-gvow6ZGfw/edit?usp=sharing)**
+
+**[PARTICIPANTS INTRO PRESENTATION](https://docs.google.com/presentation/d/1y0QDQlebG1CZ41xhA4cLT7eXrs1nIYQEj7hx0Ju4gRI/edit?usp=sharing)**
+
+
+## Detailed INFO for Registration fees and Accomodation
+
+### 💰 Registration Fees (incl. HST)
 
 | Category | Fee |
 |---|---|
@@ -77,7 +72,7 @@ Registration includes full 12-day attendance, daily light breakfast, lunch, coff
 
 ---
 
-## 🏠 Accommodation
+### 🏠 Accommodation
 
 We have reserved on-campus housing at the University of Waterloo. Two options are available:
 
@@ -100,6 +95,4 @@ You are also welcome to arrange your own accommodation in Waterloo — it is a u
 
 ---
 
-## 🌐 Website
 
-**[canadianneuromorphicengineeringworkshop.github.io](https://canadianneuromorphicengineeringworkshop.github.io)**
