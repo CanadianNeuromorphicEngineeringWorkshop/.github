@@ -55,6 +55,11 @@ CNEW 2026 brings together researchers, engineers, neuroscientists, and enthusias
 **[PARTICIPANTS INTRO PRESENTATION](https://docs.google.com/presentation/d/1y0QDQlebG1CZ41xhA4cLT7eXrs1nIYQEj7hx0Ju4gRI/edit?usp=sharing)**
 
 
+## 💻 Tutorials
+
+[Link to the tutorials](https://github.com/CanadianNeuromorphicEngineeringWorkshop/CNEW2026Tutorials)
+
+
 ## Detailed INFO for Registration fees and Accomodation
 
 ### 💰 Registration Fees (incl. HST)
